@@ -4,3 +4,6 @@
 [submodule "NLW03-backend"]
 	path = NLW03-backend
 	url = https://github.com/ericsonmoreira/NLW03-backend.git
+[submodule "NLW03-mobile"]
+	path = NLW03-mobile
+	url = https://github.com/ericsonmoreira/NLW03-mobile.git
