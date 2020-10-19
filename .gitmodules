@@ -1,3 +1,6 @@
 [submodule "NLW03-frontend"]
 	path = NLW03-frontend
 	url = https://github.com/ericsonmoreira/NLW03-frontend.git
+[submodule "NLW03-backend"]
+	path = NLW03-backend
+	url = https://github.com/ericsonmoreira/NLW03-backend.git
